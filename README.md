@@ -1,10 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I'm Evgeni
+
+### 💻 I’m Junior iOS developer
+
+### 📭 Contacts
+gmail: evgeniageenko@gmail.com
+telegram: evgeniageenko
 
 <!--
-**evgeniageenko/evgeniageenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**KatherineRatusheva/KatherineRatusheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
