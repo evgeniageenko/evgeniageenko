@@ -3,7 +3,7 @@
 ### 💻 I’m Junior iOS developer
 
 ### 📭 Contacts
-gmail: evgeniageenko@gmail.com
+gmail: evgeniageenko@gmail.com <br>
 telegram: evgeniageenko
 
 <!--
