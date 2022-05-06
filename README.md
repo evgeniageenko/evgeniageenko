@@ -4,7 +4,7 @@
 
 ### 📭 Contacts
 Gmail: evgeniageenko@gmail.com <br>
-Telegram: evgeniageenko <br>
+Telegram: @evgeniageenko <br>
 Linkedin: evgeniageenko
 
 <!--
