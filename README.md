@@ -3,9 +3,9 @@
 ### 💻 I’m Junior iOS developer
 
 ### 📭 Contacts
-gmail: evgeniageenko@gmail.com <br>
-telegram: evgeniageenko <br>
-linkedin: evgeniageenko
+Gmail: evgeniageenko@gmail.com <br>
+Telegram: evgeniageenko <br>
+Linkedin: evgeniageenko
 
 <!--
 **evgeniageenko/evgeniageenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
