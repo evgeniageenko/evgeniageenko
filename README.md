@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-### 💻 I’m Junior iOS developer
+### 💻 I’m iOS developer
 
 ### 📭 Contacts
 Gmail: evgeniageenko@gmail.com <br>
